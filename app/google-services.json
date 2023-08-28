@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578924861153",
+    "project_id": "interviewtask-ce335",
+    "storage_bucket": "interviewtask-ce335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578924861153:android:65a5200224ed5f402949a0",
+        "android_client_info": {
+          "package_name": "com.yuvarani.interview_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578924861153-im7iffme91knu1ot8qk4r3p46rgv4gse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJr73PjplC7bbAXLrcQ-oZRNmB7ugF2sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578924861153-im7iffme91knu1ot8qk4r3p46rgv4gse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
